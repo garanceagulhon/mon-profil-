@@ -1,0 +1,61 @@
+body {
+	background-color: #FEC89A;
+	text-align: justify;
+	font-family: 'Lora', serif ; ;
+}
+
+h1{
+	color: #CB997E;
+	font-size: 40px;
+	text-align: center;
+	font-family :Courier
+	text-decoration:underline;
+}
+
+h2{
+	color:white;
+	font-size: 25px;
+	background-color: #E8A598;
+	font-family:monospace;
+	text-align: center;
+}
+
+p {
+	color: black;
+	font-size: 15px;
+	line-height: 2;
+	text-align: center;
+	font-family : 'Lora', serif ;
+
+}
+
+#Photomoi {
+	border-radius: 50px;
+}
+
+
+.presentation {
+	background-color:#FEFAE0 ;
+	border-radius:10px ;
+	margin: 30px 80px;
+	padding: 40px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	text-align: center;
+
+}
+
+.list-inline {
+	list-style: none;
+
+}
+
+.list-inline li {
+	display: inline;
+	padding: 5px;
+
+}
+
+.list-inline i {
+	font-size: 40px;
+
+}
